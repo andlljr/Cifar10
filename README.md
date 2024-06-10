@@ -112,43 +112,57 @@ Esta API foi desenvolvida utilizando o framework Flask em Python e um modelo de 
 Nos testes foram inseridos 5 imagens diferentes para entender o funcionamento do modelo sendo de avião, cachorro, gato, veado e sapo
 
 ### Teste avião
+
 **Imagem de avião retirada do Google**
+
 ![Avião](aviao.jpg)
 
 **Resultado avião**
+
 ![Resultado avião](resultado-aviao.png)
 
 Percebe-se que o modelo foi assertivo na classificação de avião.
 
 ### Teste cachorro
+
 **Imagem de cachorro retirada do Google**
+
 ![Cachorro](cachorro.jpg)
 
 **Resultado cachorro**
+
 ![Resultado cachorro](resultado-cachorro.png)
 
 Percebe-se que o modelo foi assertivo na classificação de cachorro.
 
 ### Teste gato
+
 **Imagem de gato retirada do Google**
+
 ![Gato](gato.jpg)
 
 **Resultado gato**
+
 ![Resultado gato](resultado-gato.png)
 
 Percebe-se que o modelo foi assertivo na classificação de gato.
 
 ### Teste veado
+
 **Imagem de veado retirada do Google**
+
 ![Veado](veado.jpg)
 
 **Resultado veado**
+
 ![Resultado veado](resultado-veado.png)
 
 Percebe-se que o modelo foi assertivo na classificação de veado.
 
 ### Teste sapo
+
 **Imagem de sapo retirada do Google**
+
 ![Sapo](sapo.jpg)
 
 **Resultado sapo**
